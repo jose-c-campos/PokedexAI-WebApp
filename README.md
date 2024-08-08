@@ -4,11 +4,11 @@
 </span>
 
 <p>
-PokédexAI brings to life the iconic classifier from the original games and animated series. 
-To my knoweldge, mine is the first ever working implementation from scratch that utilizes a camera and file drop funcitonalities.
-Expereince 
+  PokédexAI brings to life the iconic classifier from the original Pokémon games and animated series we grew up with. 
+  To my knoweldge, mine is the first ever working implementation from scratch that utilizes a camera and file drop funcitonalities.
+  Expereince 
   <span>
-    <a herf="https://www.pokedex-ai.com/">
+    <a href="https://www.pokedex-ai.com/">
       PokédexAI
     </a>       
   </span> for yourself, or read about my creation process 
