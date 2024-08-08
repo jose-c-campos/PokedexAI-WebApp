@@ -3,6 +3,5 @@
   <h1 align="left">PokédexAI: The World's First Digital Pokédex</h1>
 </span>
 
-<img src="https://github.com/user-attachments/assets/37a4497d-1504-4228-b4a5-36b3353616cf" />
-
+<img src="https://github.com/user-attachments/assets/e7f6deac-7506-4877-b957-a795c726b7d3" />
 <img src="https://github.com/user-attachments/assets/0cafa846-d58d-473a-ade6-6f878e0281ce" />
