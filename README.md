@@ -26,5 +26,7 @@
   
 </p>
 
+## User Interface
+
 <img src="https://github.com/user-attachments/assets/e7f6deac-7506-4877-b957-a795c726b7d3" />
 <img src="https://github.com/user-attachments/assets/0cafa846-d58d-473a-ade6-6f878e0281ce" />
