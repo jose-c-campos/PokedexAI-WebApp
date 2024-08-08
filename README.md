@@ -3,6 +3,7 @@
   <h1 align="left">PokédexAI: The World's First Digital Pokédex</h1>
 </span>
 
+## About
 <p>
   PokédexAI brings to life the iconic classifier from the original Pokémon games and animated series we grew up with. 
   To my knoweldge, mine is the first ever working implementation from scratch that utilizes a camera and file drop funcitonalities.
