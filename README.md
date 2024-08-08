@@ -6,6 +6,12 @@
 <p>
   PokédexAI brings to life the iconic classifier from the original Pokémon games and animated series we grew up with. 
   To my knoweldge, mine is the first ever working implementation from scratch that utilizes a camera and file drop funcitonalities.
+  My application was built using ReactJS to create an immersive UX and Flask access the 
+  <span>
+    <a href="https://github.com/jose-c-campos/PokedexAI-Neural-Network">
+      model
+    </a>
+  </span>I trained.  
   Expereince 
   <span>
     <a href="https://www.pokedex-ai.com/">
