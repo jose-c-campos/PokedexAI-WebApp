@@ -23,7 +23,7 @@
     <a href="https://jose-c-campos.medium.com/pok%C3%A9dexai-how-i-created-the-first-working-digital-pok%C3%A9dex-from-scratch-18f426cd84db">
       here
     </a>
-  </span>
+  </span>.
   
 </p>
 
